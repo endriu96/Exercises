@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class AttractiveCompaniesCalculator {
     public static void main(String[]args) {
-        //jak wypisać dłuższy ciąg tekstowy ?
+        
         System.out.println("Oto  prosty kalkulator atrakcyjności spółek giełdowych,który pokazuje czy spolka" +
                 "\n" + "jest atrakcyjna na podstawie wskaźników:C/Z, ROE i ROA " + "\n" +
                 "Aby rozpocząć podaj wymagane wartości.(Wartości możesz pobrać m.in. z raportów finansowych spółek)");
